@@ -67,7 +67,7 @@ yarn-error.log*
 test/unit/coverage
 test/e2e/reports
 selenium-debug.log
-# Editor directories and files
+// Editor directories and files
 .idea
 *.suo
 *.ntvs*
