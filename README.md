@@ -83,3 +83,4 @@ Commit to heroku
 Now all we need to deploy to Heroku is:
 
 <code>git push heroku master</code>
+# See full topic in https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489
